@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            NDFS-Blog
 tagline:          --BLOG--
 description:      Where there’s a will,there’s a way
-url:              https://112312.github.io
+url:              https://fongandrew.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
