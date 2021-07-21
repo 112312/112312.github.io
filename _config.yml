@@ -6,7 +6,7 @@ highlighter:      pygments
 title:            NDFS-Blog
 tagline:          一个OIer
 description:      Where there’s a will,there’s a way
-url:              http://hyde.getpoole.com
+url:              http://112312.github.io
 baseurl:          /
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -33,3 +33,5 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+github:
+  repo:           https://github.com/112312
