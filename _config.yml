@@ -1,13 +1,13 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown:         redcarpet
+highlighter:      pygments
 
 # Setup
 title:            NDFS-Blog
 tagline:          一个OIer
 description:      Where there’s a will,there’s a way
-url:              https://112312.github.io
-baseurl:          '/blog'
+url:              http://hyde.getpoole.com
+baseurl:          /
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
